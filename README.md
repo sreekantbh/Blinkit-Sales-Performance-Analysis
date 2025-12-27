@@ -1,7 +1,7 @@
 # Blinkit Sales Performance Analysis
 
 ## 📄 Project Overview
-This project involves a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using various KPIs and visualizations in Python.
+This imple project involves a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using various KPIs and visualizations in Python.
 
 ## 🎯 Objectives
 The primary objective is to analyze the data to understand:
